@@ -1,0 +1,25 @@
+-> Multiple inheritenc with construcrtor
+-> Overriding
+-> ArrayList
+
+Class: | Model, Category, Books,|       User, Order, Main
+
+Harek vlass ma euta dynamic, euta static variable
+MainCat - book or thesis or article
+category - genre
+books - book name
+____________________________________
+
+User overriding getInfo in both mainCat and category both
+_________________________________________
+Order: UserInfo, Books Arraylist ,
+___________________________________
+Main methods: books.getInfo : name. category, maincategory
+getOrder: 1) BookName Model Category
+
+
+________________________________________________________________________
+Assignment: Food Delivery Analogous to this assignmentCriteria
+-> getInvoice(discount)
+-> billFormat
+
